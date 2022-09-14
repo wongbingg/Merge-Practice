@@ -13,6 +13,7 @@
 		AFE6532128D154AD002C5130 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AFE6531F28D154AD002C5130 /* Main.storyboard */; };
 		AFE6532328D154AD002C5130 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AFE6532228D154AD002C5130 /* Assets.xcassets */; };
 		AFE6532628D154AD002C5130 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AFE6532428D154AD002C5130 /* LaunchScreen.storyboard */; };
+		AFE6533028D1570C002C5130 /* Wongbing.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFE6532F28D1570C002C5130 /* Wongbing.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AFE6532228D154AD002C5130 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AFE6532528D154AD002C5130 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AFE6532728D154AD002C5130 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AFE6532F28D1570C002C5130 /* Wongbing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Wongbing.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				AFE6531928D154AC002C5130 /* AppDelegate.swift */,
 				AFE6531B28D154AC002C5130 /* SceneDelegate.swift */,
 				AFE6531D28D154AC002C5130 /* ViewController.swift */,
+				AFE6532F28D1570C002C5130 /* Wongbing.swift */,
 				AFE6531F28D154AD002C5130 /* Main.storyboard */,
 				AFE6532228D154AD002C5130 /* Assets.xcassets */,
 				AFE6532428D154AD002C5130 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AFE6533028D1570C002C5130 /* Wongbing.swift in Sources */,
 				AFE6531E28D154AD002C5130 /* ViewController.swift in Sources */,
 				AFE6531A28D154AC002C5130 /* AppDelegate.swift in Sources */,
 				AFE6531C28D154AC002C5130 /* SceneDelegate.swift in Sources */,
